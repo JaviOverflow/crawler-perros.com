@@ -1,0 +1,14 @@
+{
+  "name": "perros",
+  "version": "1.0.0",
+  "description": "perros.com crawler",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-webcrawler": "^0.7.5"
+  }
+}
